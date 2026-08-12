@@ -7,7 +7,7 @@ Turning raw data into decisions — SQL, Python, and Power BI end-to-end.
 
 <p align="center">
 <a href="https://eshwarrameshportfolio.netlify.app"><img src="https://img.shields.io/badge/Portfolio-Visit-blue?style=flat-square"></a>
-<a href="https://www.linkedin.com/in/YOUR-LINKEDIN"><img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=flat-square&logo=linkedin"></a>
+<a href="https://www.linkedin.com/in/eshwar-ramesh-9a4652251"><img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=flat-square&logo=linkedin"></a>
 </p>
 
 ---
