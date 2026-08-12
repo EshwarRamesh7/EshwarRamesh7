@@ -28,7 +28,7 @@ Turning raw data into decisions — SQL, Python, and Power BI end-to-end.
 Working on my MSc thesis — *GDP Growth Prediction using Machine Learning & Explainable AI* (Random Forest, XGBoost, SHAP) — as part of my MSc in Data Science at Liverpool John Moores University.
 
 ### 📫 Reach Me
-📧 [your email] · 🌐 [eshwarrameshportfolio.netlify.app](https://eshwarrameshportfolio.netlify.app)
+📧 [eshwarramesh1985@gmail.com] · 🌐 [eshwarrameshportfolio.netlify.app](https://eshwarrameshportfolio.netlify.app)
 
 ---
 <p align="center"><i>Open to Data Analyst / BI Analyst roles</i></p>
