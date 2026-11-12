@@ -4,7 +4,7 @@
 
 I enjoy working through the full analytics process: understanding a business question, preparing and analysing data, building useful dashboards, and communicating what the results mean. My project work spans business intelligence, statistical modelling, machine learning and explainable AI.
 
-I hold an MSc in Data Science from Liverpool John Moores University. My academic and independent projects have given me hands-on experience with Python, SQL, Power BI, DAX, MySQL, Tableau and applied machine learning.
+I am completing an MSc in Data Science at Liverpool John Moores University (expected 2026); my thesis project and presentation are complete. My academic and independent projects have given me hands-on experience with Python, SQL, Power BI, DAX, MySQL, Tableau and applied machine learning.
 
 ## Featured work
 
@@ -48,7 +48,7 @@ Developed a three-page dashboard for a Global Superstore dataset with 51,290 tra
 
 ## Education
 
-- **MSc Data Science** — Liverpool John Moores University
+- **MSc Data Science (expected 2026)** — Liverpool John Moores University
 - **Post Graduate Certification in Data Science** — IIIT Bangalore
 - **BA Economics** — D.G. Vaishnav College, Chennai
 
